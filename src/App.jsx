@@ -1,13 +1,12 @@
 import React from "react";
-import AddTodoList from "./AddTodoList";
+import "./App.css";
+import TodoList from "./components/TodoList";
 
 const App = () => {
 	return (
-		<>
-			<AddTodoList />
-			<button>Clear Completed </button>
-			<div>0 left to do</div>
-		</>
+		<div className="todo-app">
+			<TodoList />
+		</div>
 	);
 };
 
