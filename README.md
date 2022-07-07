@@ -8,4 +8,4 @@ Build a small Todo application that lives in your browser
 - React
 
 ## Link
-[Link](https://62c6e0b5e11ccf1afea19124--glowing-churros-4b1d55.netlify.app/)
+[Link](https://glowing-churros-4b1d55.netlify.app/)
