@@ -2,7 +2,7 @@
 Build a small Todo application that lives in your browser
 
 ## Screenshot
-![screenshot](../src/images/todoapp.jpg)
+![screenshot](./src/images/todoapp.jpg)
 
 ## Technology
 - React
